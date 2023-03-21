@@ -1,0 +1,11 @@
+{
+"batting_team" :   "Chennai Super Kings",
+"bowling_team": "Royal Challengers Bangalore",
+"city":   "Bengaluru",
+"runs_left" :191,
+"balls_left" :104,
+ "wickets_left":9,
+"total_runs_x":213,
+"crr":8.625,
+"rrr":11.0192
+}
